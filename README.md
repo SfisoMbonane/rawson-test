@@ -5,7 +5,7 @@
 Please review these carefully, both the final submitted code & how well these instructions are followed will be taken into consideration.
 
 Your task is to create a view of Reddit's front-page using the following endpoint: [https://reddit.com/.json](https://reddit.com/.json).
-Use any Javascript framework you are comfortable in.
+Use any Javascript framework you are comfortable with.
 
 * Clone this repository (Yes it's empty - but it's also a clean slate for you to shine!), then create your own public repository and set that as the remote (see: `git remote set-url`). This is so that other's can't see your work as they would if you were to fork the repository.
 * Add at least 1 test assertion using Jest or Mocha as the test framework.
