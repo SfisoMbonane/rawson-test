@@ -28,7 +28,7 @@ npm run serve
 - React
 
 ## Acceptance Criteria:
-- A public repository under a github account thatyou own.
+- A public repository under a github account that you own.
 - A view of Reddit's front-page, with at least 2 of the below features:
   - Expand a post's body content inline 
   - See the votes
