@@ -8,7 +8,7 @@ Your task is to create a view of Reddit's front-page using the following endpoin
 Use any Javascript framework you are comfortable with.
 
 * Clone this repository (Yes it's empty - but it's also a clean slate for you to shine!), then create your own public repository and set that as the remote (see: `git remote set-url`). This is so that other's can't see your work as they would if you were to fork the repository.
-* Add at least 1 test assertion using Jest or Mocha as the test framework.
+* Add at least 1 test assertion using Jest or Mocha as the test framework. If you have never written a test before, fret not :) - It's the effort that counts!
 * Don't worry about styling, though if you'd like to you can use Bootstrap.
 * Including some features like being able to expand a post's body content inline, see the votes or awards.
 * Include EsLint, and set your own specifications to help you lint your code.
@@ -21,11 +21,12 @@ npm run serve
 ```
 
 
-## Frameworks that will score you bonus points:
+## Frameworks/Libraries that will score you bonus points:
 
 - Vue 2/3
 - AlpineJs
 - React
+- Tailwind
 
 ## Acceptance Criteria:
 - A public repository under a github account that you own.
