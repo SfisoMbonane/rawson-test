@@ -41,5 +41,6 @@ Good Luck!
 
 PS. If you have any questions, feel free to email me on elvis.magagula@rawsonproperties.com
 
+---
 
 "I WILL ALWAYS CHOOSE A LAZY PERSON TO DO A DIFFICULT JOB… BECAUSE, HE WILL FIND AN EASY WAY TO DO IT" - Bill Gates
