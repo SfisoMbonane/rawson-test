@@ -1,46 +1,70 @@
-# Rawson JS Test
+# Getting Started with Create React App
 
-## Instructions
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Please review these carefully, both the final submitted code & how well these instructions are followed will be taken into consideration.
+## Available Scripts
 
-Your task is to create a view of Reddit's front-page using the following endpoint: [https://reddit.com/.json](https://reddit.com/.json).
-Use any Javascript framework you are comfortable with.
+In the project directory, you can run:
 
-* Clone this repository (Yes it's empty - but it's also a clean slate for you to shine!), then create your own public repository and set that as the remote (see: `git remote set-url`). This is so that other's can't see your work as they would if you were to fork the repository.
-* Add at least 1 test assertion using Jest or Mocha as the test framework. If you have never written a test before, fret not :) - It's the effort that counts!
-* Don't worry about styling, though if you'd like to you can use Bootstrap.
-* Including some features like being able to expand a post's body content inline, see the votes or awards.
-* Include EsLint, and set your own specifications to help you lint your code.
-* Give yourself approx. 4 hours to complete the task. But you have until Monday the 20th to submit it :).
+### `npm start`
 
-## How I expect to setup and run the project once completed:
-```
-npm install
-npm run serve
-```
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Frameworks/Libraries that will score you bonus points:
+### `npm test`
 
-- Vue 2/3
-- AlpineJs
-- React
-- Tailwind
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Acceptance Criteria:
-- A public repository under a github account that you own.
-- A view of Reddit's front-page, with at least 2 of the below features:
-  - Expand a post's body content inline 
-  - See the votes
-  - See awards
-- An EsLint configurations with specifications of your own choice.
-- At least 1 test case assertion.
+### `npm run build`
 
-Good Luck!
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-PS. If you have any questions, feel free to email me on elvis.magagula@rawsonproperties.com
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
----
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-"I WILL ALWAYS CHOOSE A LAZY PERSON TO DO A DIFFICULT JOB… BECAUSE, HE WILL FIND AN EASY WAY TO DO IT" - Bill Gates
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
