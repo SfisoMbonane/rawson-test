@@ -9,8 +9,6 @@ import SearchIcon from '@mui/icons-material/Search';
 import AccountCircle from '@mui/icons-material/AccountCircle';
 import InputAdornment from '@mui/material/InputAdornment';
 
-import Logo from './download.png';
-
 export default function PrimarySearchAppBar() {
 	const menuId = 'primary-search-account-menu';
 
@@ -27,7 +25,11 @@ export default function PrimarySearchAppBar() {
 						display: 'flex',
 					}}
 				>
-					<img src={Logo} alt='logo' style={{ width: 100 }} />
+					<img
+						src='https://res.cloudinary.com/getspark/image/upload/v1639839757/download_c98cuv.png'
+						alt='logo'
+						style={{ width: 100 }}
+					/>
 					<InputBase
 						sx={{ ml: 1, flex: 1 }}
 						placeholder='Search Reddit'

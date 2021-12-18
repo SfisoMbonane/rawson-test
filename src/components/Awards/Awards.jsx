@@ -9,7 +9,7 @@ const Awards = (awards) => {
 	const [showRemaining, setShowRemaining] = React.useState(false);
 
 	const [showAwards, setShowAwards] = React.useState(
-		awards.awards.data.all_awardings.slice(0, 4),
+		awards.awards.data.all_awardings.slice(0, 4) || {},
 	);
 
 	const remainingItems = awards.awards.data.all_awardings.length - 4;
